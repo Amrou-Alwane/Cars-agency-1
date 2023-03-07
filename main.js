@@ -147,6 +147,7 @@ function redirect() {
   window.location.href = selectedValue;
 }
 
+//jquery part
    
           
     
